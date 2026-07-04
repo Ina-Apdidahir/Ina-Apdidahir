@@ -1,11 +1,10 @@
+
 <!--
   ══════════════════════════════════════════════════════════════════
-  GITHUB PROFILE README  ·  ina-apdidahir/ina-apdidahir
+  GITHUB PROFILE README  ·  Ina-Apdidahir/Ina-Apdidahir
   Terminal aesthetic — matches the visual mockup.
   Adapts to each viewer's GitHub theme (light / dark) automatically.
   All cards/graphs below are LIVE services that auto-update.
-  Just create a repo named EXACTLY your username, drop this in as
-  README.md, and it renders on your profile.
   ══════════════════════════════════════════════════════════════════
 -->
 
@@ -21,7 +20,7 @@
   <a href="https://portfolio-coral-seven-b3ppt3rixs.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-06110A?style=for-the-badge&logo=vercel&logoColor=7EE787&labelColor=0D1117" alt="portfolio" /></a>
   <a href="mailto:bishar@abdidahir.dev"><img src="https://img.shields.io/badge/EMAIL-06110A?style=for-the-badge&logo=maildotru&logoColor=F0A868&labelColor=0D1117" alt="email" /></a>
   <a href="https://www.linkedin.com/in/bishar-abdidahir-5a8065324"><img src="https://img.shields.io/badge/LINKEDIN-06110A?style=for-the-badge&logo=linkedin&logoColor=79C0FF&labelColor=0D1117" alt="linkedin" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ina-apdidahir&style=for-the-badge&color=7EE787&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ina-Apdidahir&style=for-the-badge&color=7EE787&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
 </div>
@@ -77,19 +76,19 @@ const bishar = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ina-apdidahir&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=7EE787&icon_color=F0A868&text_color=8B949E&bg_color=0D1117&ring_color=7EE787" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ina-apdidahir&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=1F8A4C&icon_color=B06F1C&text_color=3A382F&bg_color=FFFFFF00&ring_color=1F8A4C" alt="github stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ina-Apdidahir&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=7EE787&icon_color=F0A868&text_color=8B949E&bg_color=0D1117&ring_color=7EE787" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ina-Apdidahir&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=1F8A4C&icon_color=B06F1C&text_color=3A382F&bg_color=FFFFFF00&ring_color=1F8A4C" alt="github stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ina-apdidahir&layout=compact&hide_border=true&langs_count=6&title_color=F0A868&text_color=8B949E&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ina-apdidahir&layout=compact&hide_border=true&langs_count=6&title_color=B06F1C&text_color=3A382F&bg_color=FFFFFF00" alt="top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ina-Apdidahir&layout=compact&hide_border=true&langs_count=6&title_color=F0A868&text_color=8B949E&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ina-Apdidahir&layout=compact&hide_border=true&langs_count=6&title_color=B06F1C&text_color=3A382F&bg_color=FFFFFF00" alt="top languages" />
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ina-apdidahir&hide_border=true&background=0D1117&stroke=1F2630&ring=F0A868&fire=F0A868&currStreakLabel=F0A868&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=484F58&dayLabels=6E7681" />
-  <img src="https://streak-stats.demolab.com?user=ina-apdidahir&hide_border=true&background=FFFFFF00&stroke=E6DFD0&ring=B06F1C&fire=B06F1C&currStreakLabel=B06F1C&sideLabels=6D685C&currStreakNum=1B1A16&sideNums=1B1A16&dates=B3AD9D&dayLabels=8C8677" alt="streak stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ina-Apdidahir&hide_border=true&background=0D1117&stroke=1F2630&ring=F0A868&fire=F0A868&currStreakLabel=F0A868&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=484F58&dayLabels=6E7681" />
+  <img src="https://streak-stats.demolab.com?user=Ina-Apdidahir&hide_border=true&background=FFFFFF00&stroke=E6DFD0&ring=B06F1C&fire=B06F1C&currStreakLabel=B06F1C&sideLabels=6D685C&currStreakNum=1B1A16&sideNums=1B1A16&dates=B3AD9D&dayLabels=8C8677" alt="streak stats" />
 </picture>
 
 </div>
@@ -98,14 +97,15 @@ const bishar = {
 ## `## ./snake --eat-contributions`
 
 <!--
-  The snake graph needs a tiny GitHub Action to generate itself.
-  Create .github/workflows/snake.yml with the Platane/snk action,
-  then this image path will render (see instructions at the bottom).
+  The snake graph needs a GitHub Action to generate itself.
+  Add .github/workflows/snake.yml (the file provided alongside this
+  README), then run the Action once (Actions tab -> Run workflow).
+  It regenerates every 12h after that.
 -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ina-apdidahir/ina-apdidahir/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/ina-apdidahir/ina-apdidahir/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ina-Apdidahir/Ina-Apdidahir/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Ina-Apdidahir/Ina-Apdidahir/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
   </picture>
 </div>
 
@@ -137,45 +137,11 @@ const bishar = {
 
 <div align="center">
 
-<a href="mailto:bishar@abdidahir.dev"><img src="https://img.shields.io/badge/✉_Email-7EE787?style=for-the-badge&logoColor=06110A" alt="email" /></a>
-<a href="https://github.com/ina-apdidahir"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="github" /></a>
+<!-- <a href="mailto:bishar@abdidahir.dev"><img src="https://img.shields.io/badge/✉_Email-7EE787?style=for-the-badge&logoColor=06110A" alt="email" /></a> -->
+<a href="https://github.com/Ina-Apdidahir"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="github" /></a>
 <a href="https://www.linkedin.com/in/bishar-abdidahir-5a8065324"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=79C0FF" alt="linkedin" /></a>
 <a href="https://www.instagram.com/bishar_abdidahir"><img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=F0A868" alt="instagram" /></a>
 
 <sub><code>// © 2026 Bishar Abdidahir — built with care</code></sub>
 
 </div>
-
-<!--
-  ══════════════════════════════════════════════════════════════════
-  SETUP — read once, then delete this comment block
-  ══════════════════════════════════════════════════════════════════
-  1. Create a public repo named EXACTLY  ina-apdidahir  (your username).
-  2. Add this file as README.md → it auto-appears on your profile.
-  3. SNAKE GRAPH: add .github/workflows/snake.yml with this content, then
-     run the Action once (Actions tab → run). It regenerates every 12h.
-
-  name: generate snake
-  on:
-    schedule: [{ cron: "0 */12 * * *" }]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=1F8A4C
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=7EE787
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  4. Stat/streak cards auto-update — no config needed.
-  ══════════════════════════════════════════════════════════════════
--->
